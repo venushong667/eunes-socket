@@ -1,0 +1,12 @@
+{
+    "name": "socket",
+    "env": "prod",
+    "port": 5000,
+    "amqp": {
+        "host": "rabbit",
+        "port": 5672,
+        "user": "rabbit",
+        "password": "password",
+        "vhost": "/"
+    }
+}
